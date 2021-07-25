@@ -7,7 +7,7 @@ algılanan yüz üzerinde önemli 68 nokta belirlenir ve bu belirlenen noktalard
 belirlenen hareketlerden birine uyuyorsa tekerlekli sandalyenin gideceği hareket yönüne karar verilmiştir Tekerlekli sandalye karar verilen yön doğrultusunda uygun hareketi 
 gerçekleştirecektir.
 
-![ScreenShot](https://github.com/eelfgnc/Robot_Guidance_with_Head_Movements/arayuz.png?raw=true)
+![ScreenShot](https://github.com/eelfgnc/Robot_Guidance_with_Head_Movements/blob/main/arayuz.png)
 
 Kullanıcı tekerlekli sandalyeyi arayüz üzerinden 2 farklı şekilde kontrol edebilir. Arayüz üzerinde gösterilen haritada 3 yeşil button vardır ve bu butonlar ile gösterilen 
 koordinatlara otonom bit şekilde hareket eder. Kullanıcı otonom hareket etmek istemez ise yön buttonları sayesinde tekerlekli sandalyeyi kontrol edebilir. 
